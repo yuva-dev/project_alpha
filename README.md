@@ -1,5 +1,5 @@
 # Blueprint of a better UX for train ticket booking in India
-This blueprint describes the improvements that can be made on the irctc.co.in website to enable a seamless and reliable ticket booking experience.
+This blueprint describes the improvements that can be made on the [irctc.co.in](https://www.irctc.co.in) website to enable a seamless and reliable ticket booking experience.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
