@@ -1,4 +1,5 @@
 # Blueprint of a better UX for train ticket booking in India
+This blueprint describes the improvements that can be made on the irctc.co.in website to enable a seamless and reliable ticket booking experience.
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
@@ -12,10 +13,10 @@
   - [5. Annual open challenges](#5-annual-open-challenges)
   - [6. Community of users](#6-community-of-users)
   - [7. LIVE nudge](#7-live-nudge)
+- [Extra](#extra)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-This blueprint describes the improvements that can be made on the irctc.co.in website to enable a seamless and reliable ticket booking experience.
 
 ## 1. Changes to the login system
  The first and foremost challenge with with current login system is that *the average Indian user* has to remember both the username and the password *(Mind you the passwords should be 8-15 charaters long containing one uppercase and lowercase letter along with a number to pass the threshold required for acceptable level of security.!!)*
@@ -63,3 +64,7 @@ LIVE nudge is a notification system that informs users about the real time or tr
 Example 1. LIVE nudge can inform the user to choose an alternate payment method when a particular payment method is experiencing high rates of failure.
 
 Example 2: LIVE nudge can also inform the user about a potential server overloads (which then impacts the probability of booking a succesful ticket) while booking during festive season.
+
+
+# Extra
+If you wish to contribute to this repository, please [create a new issue from here](https://github.com/yuva-dev/project_alpha/issues/new)
