@@ -19,7 +19,7 @@ This blueprint describes the improvements that can be made on the [irctc.co.in](
 
 
 ## 1. Changes to the login system
- The first and foremost challenge with with current login system is that *the average Indian user* has to remember both the username and the password *(Mind you the passwords should be 8-15 charaters long containing one uppercase and lowercase letter along with a number to pass the threshold required for acceptable level of security.!!)*
+ The first and foremost challenge with with current login system is that *the average Indian user* has to remember both the username and the password *(Mind you the passwords should be 8-15 characters long containing one uppercase and lowercase letter along with a number to pass the threshold required for acceptable level of security.!!)*
 
  The solution to this problem would be to remove the login with username and password and replace it with **login with mobile number and OTP only.** 
 
@@ -63,7 +63,7 @@ LIVE nudge is a notification system that informs users about the real time or tr
 
 Example 1. LIVE nudge can inform the user to choose an alternate payment method when a particular payment method is experiencing high rates of failure.
 
-Example 2: LIVE nudge can also inform the user about a potential server overloads (which then impacts the probability of booking a succesful ticket) while booking during festive season.
+Example 2: LIVE nudge can also inform the user about a potential server overload (which then impacts the probability of booking a successful ticket) while booking during festive season.
 
 
 # Extra
