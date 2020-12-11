@@ -19,7 +19,7 @@ This blueprint describes the improvements that can be made on the [irctc.co.in](
 
 
 ## 1. Changes to the login system
- The first and foremost challenge with with current login system is that *the average Indian user* has to remember both the username and the password *(Mind you the passwords should be 8-15 characters long containing one uppercase and lowercase letter along with a number to pass the threshold required for acceptable level of security.!!)*
+ The first and foremost challenge with with current login system is that *the average Indian user* has to remember both the username and the password *(Also Passwords should be 8-15 characters long containing one uppercase and lowercase letter along with a number to pass the threshold required for acceptable level of security.!!!)*
 
  The solution to this problem would be to remove the login with username and password and replace it with **login with mobile number and OTP only.** 
 
